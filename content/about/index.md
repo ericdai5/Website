@@ -2,18 +2,18 @@
 title: 'About Me'
 avatar: './me.jpg'
 skills:
-  - JavaScript (ES6+)
-  - HTML & (S)CSS
-  - React
-  - Vue
+  - JavaScript
+  - HTML & CSS
+  - Adobe Lightroom
+  - Adobe Spark
   - Node.js
-  - WordPress
+  - Microsoft Office
 ---
 
-Hello! I'm Brittany, a software engineer based in Boston, MA.
+Hello! I'm Eric, a student at the University of Pennsylvania majoring in International Relations and minoring in Computer Science. 
 
-I enjoy creating things that live on the internet, whether that be websites, applications, or anything in between. My goal is to always build products that provide pixel-perfect, performant experiences.
+I am interested in global affairs, sustainable development, and emerging markets. 
 
-Shortly after graduating from [Northeastern University](https://www.ccis.northeastern.edu/), I joined the engineering team at [Upstatement](https://www.upstatement.com/) where I work on a wide variety of interesting and meaningful projects on a daily basis.
+I am currently a Business Analyst Intern at ZeroEyes, an AI startup focused on stopping shooters upon first sight.
 
-Here are a few technologies I've been working with recently:
+Here are some of the tools I work with:
